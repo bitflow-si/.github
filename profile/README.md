@@ -1,12 +1,5 @@
-## Hi there 👋
+## Contributor
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+|           김성준              |           김현길              |           박상우              |            김성우             |       이연주                 | 김윤환                                                                                                                                                                                                      | 김학성                                                                              |
+|-------------------------------|-------------------------------|-------------------------------|------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|<a href="https://github.com/method76"><img src="https://avatars.githubusercontent.com/u/13836042?v=4" width="75"></a>|<a href="https://github.com/giribitflow"><img src="https://avatars.githubusercontent.com/u/106512697?v=4" width="75"></a>|<a href="https://github.com/cyberprophet"><img src="https://avatars.githubusercontent.com/u/48705422?v=4" width="75">|<a href="https://github.com/duncankim-bitflow"><img src="https://avatars.githubusercontent.com/u/93564188?v=4" width="75"></a>|<a href="https://github.com/yeonjoo86"><img src="https://avatars.githubusercontent.com/u/107525085?v=4" width="75"></a>| <a href="https://github.com/MinLab-bitflow"><img src="https://avatars.githubusercontent.com/u/108516337?v=4" width="75">| <img src="https://avatars.githubusercontent.com/u/82303691?v=4" width="75"></a> |
